@@ -3,7 +3,7 @@ class Solution:
         minimum = min(batteries)
         maximum = sum(batteries)
 
-        def isPossible(batteries: List[int], mid: int) -> bool:
+        def isPossible(batteries,mid):
             total = 0
             goal = n * mid
             for battery in batteries:
