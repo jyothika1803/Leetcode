@@ -1,6 +1,11 @@
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        a=set(nums1)
-        b=set(nums2)
-        return list(a.intersection(b))
+        hashmap={}
+        result=set()
+        for num in nums1:
+            hashmap[num]=True
+        for num in nums2:
+            if num in hashmap:
+                result.add(num)
+        return list(result)
         
