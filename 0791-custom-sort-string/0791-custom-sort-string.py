@@ -1,13 +1,9 @@
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
-        arr=[0]*26
-        for char in s:
-            arr[ord(char)-ord('a')]+=1
-        result=[]
+        hashmap={}
+        index=0
         for char in order:
-            result.append(char*arr[ord(char)-ord('a')])
-            arr[ord(char)-ord('a')]=0
-        for i in range(len(arr)):
-            if arr[i]>0:
-                result.append(chr(i+ord('a'))*arr[i])
-        return "".join(result)
+            hashmap[char]=index
+            index+=1
+        sorted_s=sorted(s,key=lambda x:hashmap.get(x,float('inf')))
+        return "".join(sorted_s)
