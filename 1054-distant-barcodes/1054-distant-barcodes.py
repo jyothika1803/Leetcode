@@ -1,15 +1,20 @@
 class Solution:
     def rearrangeBarcodes(self, barcodes: List[int]) -> List[int]:
-        freq=Counter(barcodes)
-        heap=[(-count,val) for val,count in freq.items()]
-        heapq.heapify(heap)
-        result=[]
-        prev_count,prev_val=0,None
-        while heap:
-            count,val=heapq.heappop(heap)
-            result.append(val)
-            if prev_count<0:
-                heapq.heappush(heap,(prev_count,prev_val))
-            prev_count=count+1
-            prev_val=val
-        return result
+        hashmap={}
+        for barcode in barcodes:
+            hashmap[barcode]=hashmap.get(barcode,0)+1
+        maxheap=[]
+        for barcode,count in hashmap.items():
+            maxheap.append((-count,barcode))
+        heapq.heapify(maxheap)
+        res=[0]*len(barcodes)
+        i=0
+        while maxheap:
+            count,barcode=heapq.heappop(maxheap)
+            count=-count
+            for _ in range(count):
+                if i>=len(barcodes):
+                    i=1
+                res[i]=barcode
+                i+=2
+        return res
