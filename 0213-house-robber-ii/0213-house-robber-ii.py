@@ -15,4 +15,4 @@ class Solution:
         dp2[1]=nums[0]
         for i in range(2,2*n+1):
             dp2[i]=max(dp2[i-1],dp2[i-2]+nums[(i-1)%n])
-        return dp2[2*n]-dp1[n]
+        return dp2[2*n]-dp1[n]    
