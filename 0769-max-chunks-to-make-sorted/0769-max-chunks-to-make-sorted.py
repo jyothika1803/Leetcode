@@ -11,4 +11,4 @@ class Solution:
             if Max<=suffix_min[i+1]:
                 chunks+=1
         chunks+=1
-        return chunks
+        return chunks 
