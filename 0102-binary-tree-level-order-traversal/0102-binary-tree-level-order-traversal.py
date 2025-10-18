@@ -24,4 +24,3 @@ class Solution:
             result.append(level_nodes)
             level+=1
         return result
-
