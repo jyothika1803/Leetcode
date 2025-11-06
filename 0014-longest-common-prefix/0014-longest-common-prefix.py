@@ -5,11 +5,10 @@ class Solution:
         strs.sort()
         first=strs[0]
         last=strs[-1]
-        prefix=""
+        res=""
         for i in range(min(len(first),len(last))):
             if first[i]==last[i]:
-                prefix+=first[i]
+                res+=first[i]
             else:
                 break
-        return prefix
-        
+        return res
