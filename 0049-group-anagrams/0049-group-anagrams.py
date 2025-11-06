@@ -7,6 +7,4 @@ class Solution:
                 hashmap[sorted_char]=[char]
             else:
                 hashmap[sorted_char].append(char)
-        return list(hashmap.values())
-
-        
+        return list(hashmap.values())    
