@@ -1,10 +1,7 @@
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        res=[]
         maxCandies=max(candies)
+        ans=[]
         for i in range(len(candies)):
-            res.append(candies[i]+extraCandies>=maxCandies)
-        return res
-
-
-        
+            ans.append(candies[i]+extraCandies>=maxCandies)
+        return ans
