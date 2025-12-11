@@ -1,8 +1,8 @@
 class Solution:
     def findNumbers(self, nums: List[int]) -> int:
-        count_even=0
+        even_count=0
         for num in nums:
-            if (len(str(num)))%2==0:
-                count_even+=1
-        return count_even
+            if len(str(num))%2==0:
+                even_count+=1
+        return even_count
         
