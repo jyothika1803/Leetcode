@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jyothika1803/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0799-champagne-tower](https://github.com/jyothika1803/Leetcode/tree/main/0799-champagne-tower/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
