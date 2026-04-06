@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyothika1803/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/jyothika1803/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +51,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jyothika1803/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/jyothika1803/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/jyothika1803/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
 <!---LeetCode Topics End-->
