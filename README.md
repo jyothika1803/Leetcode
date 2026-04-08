@@ -6,11 +6,13 @@
 | ------- | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jyothika1803/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyothika1803/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0376-wiggle-subsequence](https://github.com/jyothika1803/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0454-4sum-ii](https://github.com/jyothika1803/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jyothika1803/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0376-wiggle-subsequence](https://github.com/jyothika1803/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0799-champagne-tower](https://github.com/jyothika1803/Leetcode/tree/main/0799-champagne-tower/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -61,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0633-sum-of-square-numbers](https://github.com/jyothika1803/Leetcode/tree/main/0633-sum-of-square-numbers/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0376-wiggle-subsequence](https://github.com/jyothika1803/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 <!---LeetCode Topics End-->
