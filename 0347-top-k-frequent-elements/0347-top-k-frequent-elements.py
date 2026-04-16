@@ -10,7 +10,7 @@ class Solution:
         for num, freq in hashmap.items():
             pair=(-freq,num)
             max_heap.append(pair)
-            heapq.heapify(max_heap)
+        heapq.heapify(max_heap)
         result=[]
         for _ in range(k):
             freq,num=heapq.heappop(max_heap)
