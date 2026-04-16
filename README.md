@@ -7,6 +7,7 @@
 | [0045-jump-game-ii](https://github.com/jyothika1803/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/jyothika1803/Leetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/jyothika1803/Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/jyothika1803/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0454-4sum-ii](https://github.com/jyothika1803/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 ## Dynamic Programming
@@ -47,6 +48,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/jyothika1803/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0454-4sum-ii](https://github.com/jyothika1803/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 ## String
@@ -70,4 +72,28 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/jyothika1803/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/jyothika1803/Leetcode/tree/main/0376-wiggle-subsequence/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/jyothika1803/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
